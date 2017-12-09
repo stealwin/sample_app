@@ -203,7 +203,7 @@ DEPENDENCIES
   jbuilder
   jquery-rails
   listen
-  pg
+  pg (~> 0.18)
   rails (~> 5.1.4)
   rails_12factor (= 0.0.2)
   rspec-rails
